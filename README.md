@@ -49,8 +49,8 @@ Make sure you have Docker and Docker Compose installed on your machine.
 
 1. Clone the repository:
 ```shell
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/aghazaryan/package-api.git
+cd package-api
 ```
 2. Build and run the application using Docker Compose:
 ```shell
